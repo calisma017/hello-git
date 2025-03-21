@@ -1,0 +1,1 @@
+print("como 2faut")
